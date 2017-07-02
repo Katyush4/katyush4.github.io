@@ -13,7 +13,7 @@ name                     : "Cewek Eksib"
 description              : "Kumpulan Cerita Cewek Eksib"
 url                      : #fuck
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Katyush4/katyush4.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
