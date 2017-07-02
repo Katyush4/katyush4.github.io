@@ -10,7 +10,7 @@ layout:
 ---
 
 /*!
- * Minimal Mistakes Jekyll Theme ${pkg.version} by ${pkg.author}
+ * Minimal Mistakes Jekyll Theme ${pkg.version} by Admin
  * Copyright ${dateObj.getFullYear()} Michael Rose - mademistakes.com | @mmistakes
  * Licensed under ${pkg.license}
  */
