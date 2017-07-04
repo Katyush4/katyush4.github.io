@@ -18,9 +18,6 @@ feature_row:
     alt: "placeholder image 1"
     title: "Shinta: Prologue"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/shinta-1"
-    btn_label: "Baca"
-    btn_class: "btn--inverse"
   - image_path: /assets/img/index/dindra2.jpg
     alt: "placeholder image 2"
     title: "Shinta: Photography Class"
