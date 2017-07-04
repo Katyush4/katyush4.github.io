@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   cta_label: "Baca"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  cta_url: "#"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
@@ -18,19 +18,22 @@ feature_row:
     alt: "placeholder image 1"
     title: "Shinta: Prologue"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/shinta1"
+    url: "/shinta-1"
     btn_label: "Baca"
     btn_class: "btn--inverse"
   - image_path: /assets/img/index/dindra2.jpg
     alt: "placeholder image 2"
     title: "Shinta: Photography Class"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/shinta2"
+    url: "/shinta-2"
     btn_label: "Baca"
     btn_class: "btn--inverse"
   - image_path: /assets/img/index/dindra3.jpg
-    title: "Placeholder 3"
+    title: "Shinta: Another Day in Lens"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/shinta-3"
+    btn_label: "Baca"
+    btn_class: "btn--inverse"
 feature_row2:
   - image_path: /assets/img/index/dindra4.jpg
     alt: "placeholder image 2"
