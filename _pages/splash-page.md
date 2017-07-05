@@ -6,31 +6,31 @@ date: 2016-03-10T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  cta_label: "Baca"
-  cta_url: "#"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  overlay_image: /assets/img/index/Cewek-Eksib.jpg
+  cta_label: "Foto Eksibisionis"
+  cta_url: "#foto"
+  caption: "[**cewekeksib.ml**]"
+excerpt: "Kumpulan cerita dan foto cewek-cewek eksib terbaik yang pernah ada !"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Atau ingin baca cerita eksibisionis terseksi ? '
 feature_row:
   - image_path: assets/img/index/dindra.jpg
     alt: "placeholder image 1"
     title: "Shinta: Prologue"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Hello, nama gue Shinta R.A. nggak penting R.A kepanjangan dari apa. Yang penting gue biasa dipanggil Shinta. I'm here to tell ..."
     url: "/shinta-1"
     btn_label: "Baca"
     btn_class: "btn--inverse"
   - image_path: /assets/img/index/dindra2.jpg
     alt: "placeholder image 2"
     title: "Shinta: Photography Class"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Kalo diperhatikan, hobi gue adalah hobi yang didominasi oleh cowo. Karena hobi inilah gue merasa ..."
     url: "/shinta-2"
     btn_label: "Baca"
     btn_class: "btn--inverse"
   - image_path: /assets/img/index/dindra3.jpg
     title: "Shinta: Another Day in Lens"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Yang juga nggak kalah mengagetkan adalah hasil foto dari Yoga. Keren dan seksi banget hasilnya!"
     url: "/shinta-3"
     btn_label: "Baca"
     btn_class: "btn--inverse"
