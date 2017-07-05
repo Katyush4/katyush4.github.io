@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/index/Cewek-Eksib.jpg
   cta_label: "Foto Eksibisionis"
-  cta_url: "#foto"
+  cta_url: "foto"
   caption: "[**cewekeksib.ml**]"
 excerpt: "Kumpulan cerita dan foto cewek-cewek eksib terbaik yang pernah ada !"
 intro: 
